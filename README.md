@@ -66,7 +66,7 @@ Explainable Artificial Intelligence (XAI) on Time Series Data: A Survey [[link]]
 
 2. [ICML 24]TIMEX++: Learning Time-Series Explanations with Information Bottleneck [[link]](https://arxiv.org/abs/2405.09308)
 
-3. [CIKM 24] (Time-Frequency Image, STFT) Time is Not Enough: Time-Frequency based Explanation for Time-Series Black-Box Models  [[link]](https://arxiv.org/pdf/2408.03636)
+3. [CIKM 24]Time is Not Enough: Time-Frequency based Explanation for Time-Series Black-Box Models  [[link]](https://arxiv.org/pdf/2408.03636)
 
 4. Glacier: guided locally constrained counterfactual explanations for time series classification [[link]](https://link.springer.com/content/pdf/10.1007/s10994-023-06502-x.pdf)
 
