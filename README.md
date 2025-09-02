@@ -16,11 +16,11 @@ This repository aims to help researchers and practitioners quickly navigate the 
 
 ## Surveys
 
-**2023**
+## 2023
 
 Interpretation of Time-Series Deep Models: A Survey [[link]](https://arxiv.org/pdf/2305.14582) 
 
-**2022**
+## 2022
 
 Explainable AI for Time Series Classification: A review, taxonomy and research directions [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9895252)
 
@@ -28,13 +28,13 @@ Post Hoc Explainability for Time Series Classification [[link]](https://ieeexplo
 
 Counterfactual explanations and how to find them: literature review and benchmarking [[link]](https://link.springer.com/content/pdf/10.1007/s10618-022-00831-6.pdf)
 
-**2021**
+## 2021
 
 Explainable Artificial Intelligence (XAI) on Time Series Data: A Survey [[link]](https://arxiv.org/pdf/2104.00950)
 
 ## Papers
 
-**2025**
+## 2025
 
 1. [ICLR 25]Start Smart: Leveraging Gradients For Enhancing Mask-based XAI Methods [[link]](https://openreview.net/pdf?id=Iht4NNVqk0)
 
@@ -60,7 +60,7 @@ Explainable Artificial Intelligence (XAI) on Time Series Data: A Survey [[link]]
 
 12. Implet: A Post-hoc Subsequence Explainer for Time Series Models [[link]](https://arxiv.org/pdf/2505.08748)
 
-**2024**
+## 2024
 
 1. [ICLR 24]Explaining Time Series via Contrastive and Locally Sparse Perturbations [[link]](https://openreview.net/pdf?id=qDdSRaOiyb)
 
@@ -76,7 +76,7 @@ Explainable Artificial Intelligence (XAI) on Time Series Data: A Survey [[link]]
 
 7. IndMask: Inductive Explanation for Multivariate Time Series Black-Box Models [[link]](https://pdfs.semanticscholar.org/72f6/873b03f8ec549011dfca3dc4ae7a7adc7451.pdf)
 
-**2023**
+## 2023
 
 1. [ICLR 23]Temporal Dependencies in Feature Importance for Time Series Prediction [[link]](https://arxiv.org/pdf/2107.14317)
 
@@ -90,7 +90,7 @@ Explainable Artificial Intelligence (XAI) on Time Series Data: A Survey [[link]]
 
 6. CELS: Counterfactual Explanations for Time Series Data via Learned Saliency Maps [[link]](https://ieeexplore.ieee.org/abstract/document/10386229)
 
-**2022**
+## 2022
 
 1. [ICDM 22]Class-Specific Explainability for Deep Time Series Classifiers [[link]](https://arxiv.org/pdf/2210.05411)
 
@@ -100,7 +100,7 @@ Explainable Artificial Intelligence (XAI) on Time Series Data: A Survey [[link]]
 
 4. XEM: An Explainable-by-Design Ensemble Method for Multivariate Time Series Classification [[link]](https://arxiv.org/pdf/2005.03645)
 
-**2021**
+## 2021
 
 1. [ICML 21]Explaining time series predictions with dynamic masks [[link]](https://arxiv.org/pdf/2106.05303)
 
@@ -116,7 +116,7 @@ Explainable Artificial Intelligence (XAI) on Time Series Data: A Survey [[link]]
 
 7. Instance-based Counterfactual Explanations for Time Series Classification [[link]](https://arxiv.org/pdf/2009.13211)
 
-**2020**
+## 2020
 
 1. [NIPS 20]Benchmarking Deep Learning Interpretability in Time Series Predictions [[link]](https://arxiv.org/pdf/2010.13924)
 
@@ -132,7 +132,7 @@ Explainable Artificial Intelligence (XAI) on Time Series Data: A Survey [[link]]
 
 7. Series Saliency: Temporal Interpretation for Multivariate Time Series Forecasting [[link]](https://arxiv.org/abs/2012.09324)
 
-**2019&before**
+## 2019&before
 
 1. [ICML 19]Exploring Interpretable LSTM Neural Networks over Multi-Variable Data [[link]](https://arxiv.org/pdf/1905.12034)
 
