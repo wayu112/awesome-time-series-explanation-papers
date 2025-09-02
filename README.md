@@ -84,7 +84,7 @@ Explainable Artificial Intelligence (XAI) on Time Series Data: A Survey [[link]]
 
 3. [ICML 23]Self-Interpretable Time Series Prediction with Counterfactual Explanations [[link]](https://openreview.net/pdf?id=JPMT9kjeJi)
 
-4. [NIPS 23]Encoding Time-Series Explanations through Self-Supervised Model Behavior Consistency [[link]](TimeX: https://openreview.net/pdf?id=yEfmhgwslQ)
+4. [NIPS 23]Encoding Time-Series Explanations through Self-Supervised Model Behavior Consistency [[link]](https://openreview.net/pdf?id=yEfmhgwslQ)
 
 5. Explaining time series classifiers through meaningful perturbation and optimization [[link]](https://www.sciencedirect.com/science/article/pii/S0020025523009192?via%3Dihub)
 
