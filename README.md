@@ -66,17 +66,19 @@ Explainable Artificial Intelligence (XAI) on Time Series Data: A Survey [[link]]
 
 1. [ICLR 24]Explaining Time Series via Contrastive and Locally Sparse Perturbations [[link]](https://openreview.net/pdf?id=qDdSRaOiyb)
 
-2. [ICML 24]TIMEX++: Learning Time-Series Explanations with Information Bottleneck [[link]](https://arxiv.org/abs/2405.09308)
+2. [ICLR 24]Inherently Interpretable Time Series Classification via Multiple Instance Learning [[link]](https://arxiv.org/pdf/2311.10049)
 
-3. [CIKM 24]Time is Not Enough: Time-Frequency based Explanation for Time-Series Black-Box Models  [[link]](https://arxiv.org/pdf/2408.03636)
+3. [ICML 24]TIMEX++: Learning Time-Series Explanations with Information Bottleneck [[link]](https://arxiv.org/abs/2405.09308)
 
-4. Glacier: guided locally constrained counterfactual explanations for time series classification [[link]](https://link.springer.com/content/pdf/10.1007/s10994-023-06502-x.pdf)
+4. [CIKM 24]Time is Not Enough: Time-Frequency based Explanation for Time-Series Black-Box Models  [[link]](https://arxiv.org/pdf/2408.03636)
 
-5. Sub-SpaCE: Subsequence-Based Sparse Counterfactual Explanations for Time Series Classification Problems [[link]](https://link.springer.com/chapter/10.1007/978-3-031-63800-8_1)
+5. Glacier: guided locally constrained counterfactual explanations for time series classification [[link]](https://link.springer.com/content/pdf/10.1007/s10994-023-06502-x.pdf)
 
-6. ShapTime: A General XAI Approach for Explainable Time Series Forecasting [[link]](https://link.springer.com/chapter/10.1007/978-3-031-47721-8_45)
+6. Sub-SpaCE: Subsequence-Based Sparse Counterfactual Explanations for Time Series Classification Problems [[link]](https://link.springer.com/chapter/10.1007/978-3-031-63800-8_1)
 
-7. IndMask: Inductive Explanation for Multivariate Time Series Black-Box Models [[link]](https://pdfs.semanticscholar.org/72f6/873b03f8ec549011dfca3dc4ae7a7adc7451.pdf)
+7. ShapTime: A General XAI Approach for Explainable Time Series Forecasting [[link]](https://link.springer.com/chapter/10.1007/978-3-031-47721-8_45)
+
+8. IndMask: Inductive Explanation for Multivariate Time Series Black-Box Models [[link]](https://pdfs.semanticscholar.org/72f6/873b03f8ec549011dfca3dc4ae7a7adc7451.pdf)
 
 ### 2023
 
@@ -91,6 +93,8 @@ Explainable Artificial Intelligence (XAI) on Time Series Data: A Survey [[link]]
 5. Explaining time series classifiers through meaningful perturbation and optimization [[link]](https://www.sciencedirect.com/science/article/pii/S0020025523009192?via%3Dihub)
 
 6. CELS: Counterfactual Explanations for Time Series Data via Learned Saliency Maps [[link]](https://ieeexplore.ieee.org/abstract/document/10386229)
+
+7. Explainable AI for Time Series via Virtual Inspection Layers [[link]](https://arxiv.org/pdf/2303.06365)
 
 ### 2022
 
@@ -142,6 +146,8 @@ Explainable Artificial Intelligence (XAI) on Time Series Data: A Survey [[link]]
 
 2. [ICDM 19]MTEX-CNN: Multivariate Time Series EXplanations for Predictions with Convolutional Neural Networks [[link]](https://ieeexplore.ieee.org/document/8970899)
 
-3. [ICML 17]Learning important features through propagating activation differences [[link]](https://arxiv.org/pdf/1704.02685)
+3. [ICTAI 19]Explainable ai for time series via virtual inspection layer [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8995349)
 
-4. [NIPS 16]Retain: An interpretable predictive model for healthcare using reverse time attention mechanism [[link]](https://arxiv.org/abs/1608.05745)
+4. [ICML 17]Learning important features through propagating activation differences [[link]](https://arxiv.org/pdf/1704.02685)
+
+5. [NIPS 16]Retain: An interpretable predictive model for healthcare using reverse time attention mechanism [[link]](https://arxiv.org/abs/1608.05745)
