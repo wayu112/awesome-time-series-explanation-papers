@@ -80,6 +80,8 @@ Explainable Artificial Intelligence (XAI) on Time Series Data: A Survey [[link]]
 
 8. IndMask: Inductive Explanation for Multivariate Time Series Black-Box Models [[link]](https://pdfs.semanticscholar.org/72f6/873b03f8ec549011dfca3dc4ae7a7adc7451.pdf)
 
+9. Benchmarking Counterfactual Interpretability in Deep Learning Models for Time Series Classification [[link]](https://arxiv.org/pdf/2408.12666)
+
 ### 2023
 
 1. [ICLR 23]Temporal Dependencies in Feature Importance for Time Series Prediction [[link]](https://arxiv.org/pdf/2107.14317)
