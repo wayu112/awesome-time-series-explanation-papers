@@ -110,6 +110,14 @@ Explainable Artificial Intelligence (XAI) on Time Series Data: A Survey [[link]]
 
 5. XEM: An Explainable-by-Design Ensemble Method for Multivariate Time Series Classification [[link]](https://arxiv.org/pdf/2005.03645)
 
+6. PIP: pictorial interpretable prototype learning for time series classification [[link]](https://arxiv.org/pdf/2408.12666)
+
+7. [ICMLA 22]Temporal rule-based counterfactual explanations for multivariate time series [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10069254)
+
+8. [ICMLA 22]TSEvo: Evolutionary Counterfactual Explanations for Time Series Classification [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10069160)
+
+9. Motif-guided time series counterfactual explanations [[link]](https://arxiv.org/pdf/2211.04411)
+
 ### 2021
 
 1. [ICML 21]Explaining time series predictions with dynamic masks [[link]](https://arxiv.org/pdf/2106.05303)
@@ -125,6 +133,8 @@ Explainable Artificial Intelligence (XAI) on Time Series Data: A Survey [[link]]
 6. XCM: An Explainable Convolutional Neural Network for Multivariate Time Series Classification [[link]](https://arxiv.org/pdf/2009.04796)
 
 7. Instance-based Counterfactual Explanations for Time Series Classification [[link]](https://arxiv.org/pdf/2009.13211)
+
+8. Multi-modal prototype learning for interpretable multivariable time series classification [[link]](https://arxiv.org/pdf/2106.09636)
 
 ### 2020
 
@@ -148,8 +158,10 @@ Explainable Artificial Intelligence (XAI) on Time Series Data: A Survey [[link]]
 
 2. [ICDM 19]MTEX-CNN: Multivariate Time Series EXplanations for Predictions with Convolutional Neural Networks [[link]](https://ieeexplore.ieee.org/document/8970899)
 
-3. [ICTAI 19]Explainable ai for time series via virtual inspection layer [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8995349)
+3. [ICTAI 19]Agnostic local explanation for time series classification [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8995349)
 
-4. [ICML 17]Learning important features through propagating activation differences [[link]](https://arxiv.org/pdf/1704.02685)
+4. Explaining Deep Classification of Time-Series Data with Learned Prototypes [[link]](https://arxiv.org/pdf/1904.08935)
 
-5. [NIPS 16]Retain: An interpretable predictive model for healthcare using reverse time attention mechanism [[link]](https://arxiv.org/abs/1608.05745)
+5. [ICML 17]Learning important features through propagating activation differences [[link]](https://arxiv.org/pdf/1704.02685)
+
+6. [NIPS 16]Retain: An interpretable predictive model for healthcare using reverse time attention mechanism [[link]](https://arxiv.org/abs/1608.05745)
