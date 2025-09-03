@@ -1,11 +1,13 @@
-# Awesome Time Series Explanation Papers
+# 🚀 Awesome Time Series Explanation Papers
 
-A curated list of papers on **time series explanation / interpretability**.  
+A curated list of papers on **time series explanation / interpretability**. 
 This repository aims to help researchers and practitioners quickly navigate the growing literature in this field.
 
-## Table of Contents
-- [Time Series Explanation Surveys](#Surveys)
-- [Time Series Explanation Papers](#Papers)
+We will try our best to make this paper list updated. If you notice some related papers missing, do not hesitate to contact us🤗.
+
+## 🔖Table of Contents
+- [Surveys](#Surveys)
+- [Papers](#Papers)
   - [2025](#2025)
   - [2024](#2024)
   - [2023](#2023)
@@ -14,7 +16,7 @@ This repository aims to help researchers and practitioners quickly navigate the 
   - [2020](#2020)
   - [2019&before](#2019&before)
 
-## Surveys
+## 📘Surveys
 
 ### 2023
 
@@ -32,7 +34,7 @@ Counterfactual explanations and how to find them: literature review and benchmar
 
 Explainable Artificial Intelligence (XAI) on Time Series Data: A Survey [[link]](https://arxiv.org/pdf/2104.00950)
 
-## Papers
+## 📜Papers
 
 ### 2025
 
