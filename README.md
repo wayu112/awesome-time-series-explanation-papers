@@ -94,11 +94,13 @@ Explainable Artificial Intelligence (XAI) on Time Series Data: A Survey [[link]]
 
 1. [ICDM 22]Class-Specific Explainability for Deep Time Series Classifiers [[link]](https://arxiv.org/pdf/2210.05411)
 
-2. [AISTATS 22]LIMESegment: Meaningful, Realistic Time Series Explanation [[link]](https://proceedings.mlr.press/v151/sivill22a/sivill22a.pdf)
+2. [ICDM 22]Neuro-symbolic models for interpretable time series classification using temporal logic description [[link]](https://arxiv.org/pdf/2209.09114)
 
-3. Shapelet-Based Counterfactual Explanations for Multivariate Time Series [[link]](https://arxiv.org/pdf/2208.10462)
+3. [AISTATS 22]LIMESegment: Meaningful, Realistic Time Series Explanation [[link]](https://proceedings.mlr.press/v151/sivill22a/sivill22a.pdf)
 
-4. XEM: An Explainable-by-Design Ensemble Method for Multivariate Time Series Classification [[link]](https://arxiv.org/pdf/2005.03645)
+4. Shapelet-Based Counterfactual Explanations for Multivariate Time Series [[link]](https://arxiv.org/pdf/2208.10462)
+
+5. XEM: An Explainable-by-Design Ensemble Method for Multivariate Time Series Classification [[link]](https://arxiv.org/pdf/2005.03645)
 
 ### 2021
 
