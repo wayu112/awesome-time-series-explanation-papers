@@ -1,9 +1,12 @@
 # 🚀 Awesome Time Series Explanation Papers
 
 A curated list of papers on **time series explanation / interpretability**. 
+
 This repository aims to help researchers and practitioners quickly navigate the growing literature in this field.
 
 We will try our best to make this paper list updated. If you notice some related papers missing, do not hesitate to contact us🤗.
+
+If you like our project, please give it a star ⭐ to show your support！
 
 ## 🔖Table of Contents
 - [Surveys](#Surveys)
